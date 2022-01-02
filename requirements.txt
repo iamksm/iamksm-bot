@@ -1,0 +1,16 @@
+pynacl
+discord
+youtube_dl
+pytz
+async-timeout==3.0.1
+py-cord
+py-cord[voice]
+yt-dlp
+aiohttp==3.7.4
+asyncio
+beautifulsoup4
+spotipy
+more_itertools
+lxml
+babel
+tox
